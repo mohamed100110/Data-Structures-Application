@@ -1,6 +1,3 @@
-//ProgrammingAdvices.com
-//Mohammed Abu-Hadhoud
-
 #include <iostream>
 #include "clsQueueLine.h"
 
